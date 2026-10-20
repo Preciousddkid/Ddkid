@@ -1,0 +1,5 @@
+[build]
+command = "pip install -r requirements.txt"
+
+[tool.vercel]
+# Vercel deployment settings
